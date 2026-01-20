@@ -1,4 +1,4 @@
-实验1: 基于 PyTorch 和 MNIST 的神经网络训练示例
+# 实验1: 基于 PyTorch 和 MNIST 的神经网络训练示例
 
 包含文件:
 - train_bp.py: MLP (BP 神经网络) 训练脚本
