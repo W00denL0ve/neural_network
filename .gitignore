@@ -52,3 +52,5 @@ tensorboard/
 *report*.md
 
 images/
+samples/
+figures/
