@@ -1,0 +1,20 @@
+# Python 版本：Python 3.10
+
+# PyTorch
+torch>=1.13.0
+torchvision>=0.14.0
+
+# 数据与图像处理
+numpy>=1.21
+pillow>=8.0
+
+# 训练与日志
+tqdm>=4.60
+tensorboard>=2.9
+
+# 可视化与评估
+matplotlib>=3.4
+scikit-learn>=1.0
+
+# 其它常用工具（可选）
+setuptools
